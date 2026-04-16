@@ -30,7 +30,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/DikozImpact/bash-warp-generat
 ```
 Для Clash:
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/DikozImpact/bash-warp-generator/refs/heads/patch-1/warp_generator_clash.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/z4nik/bash-warp-generator/refs/heads/patch-1/warp_generator_clash.sh)
 ```
 Дополнительный вариант
 WARP in WARP для Karing/Hiddify:
